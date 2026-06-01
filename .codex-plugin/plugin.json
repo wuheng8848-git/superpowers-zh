@@ -1,5 +1,5 @@
 {
-  "name": "superpowers",
+  "name": "superpowers-zh",
   "version": "5.1.0",
   "description": "一套面向 AI 编码代理的技能框架与软件开发方法论：覆盖计划、TDD、调试和协作流程。",
   "author": {
@@ -7,8 +7,8 @@
     "email": "jesse@fsck.com",
     "url": "https://github.com/obra"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/wuheng8848-git/superpowers-zh",
+  "repository": "https://github.com/wuheng8848-git/superpowers-zh",
   "license": "MIT",
   "keywords": [
     "brainstorming",
@@ -25,7 +25,7 @@
     "displayName": "Superpowers 中文版",
     "shortDescription": "为编码代理提供计划、TDD、调试与交付工作流",
     "longDescription": "使用 Superpowers 引导代理完成需求澄清、实现计划、测试驱动开发、系统化调试、并行执行、代码审查和开发分支收尾等工作流。",
-    "developerName": "Jesse Vincent",
+    "developerName": "Jesse Vincent / wuheng8848-git",
     "category": "Coding",
     "capabilities": [
       "Interactive",
@@ -36,7 +36,7 @@
       "我有一个想做的功能想法。",
       "我们给这个项目加一个功能。"
     ],
-    "websiteURL": "https://github.com/obra/superpowers",
+    "websiteURL": "https://github.com/wuheng8848-git/superpowers-zh",
     "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
     "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
     "brandColor": "#F59E0B",
