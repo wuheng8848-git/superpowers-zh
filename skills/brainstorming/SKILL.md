@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "任何创造性工作之前都必须使用，包括创建功能、构建组件、添加能力或修改行为；在实现前探索用户意图、需求和设计。"
+description: "中文触发：当用户说想做个东西、加功能、改功能、做页面、做组件、实现一个想法、先聊需求、先设计一下、梳理方案时必须使用；用于 brainstorming，在写代码前澄清意图、需求和设计。"
 ---
 
 # Brainstorming Ideas Into Designs

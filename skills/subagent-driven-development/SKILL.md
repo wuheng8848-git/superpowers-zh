@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: 在当前会话中执行由独立任务组成的实现计划时使用
+description: 中文触发：当用户要执行实现计划、按任务推进、多个独立任务逐项实现，并且当前环境支持子代理时使用；用于 subagent-driven development。
 ---
 
 # Subagent-Driven Development

@@ -1,6 +1,6 @@
 ---
 name: using-superpowers
-description: 在任何对话开始时使用；建立查找和使用技能的流程，并要求在任何回复之前先调用技能工具，包括澄清问题
+description: 中文触发：任何新对话开始、用户提出编码任务、需求、调试、计划、review 或交付请求时使用；用于加载 Superpowers 技能选择规则，先判断该用哪个 skill。
 ---
 
 <SUBAGENT-STOP>

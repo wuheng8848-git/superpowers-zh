@@ -1,6 +1,6 @@
 ---
 name: using-git-worktrees
-description: 当开始需要与当前工作区隔离的功能开发，或准备执行实现计划时使用；通过平台原生工具或 git worktree 兜底来确保存在隔离工作区
+description: 中文触发：当用户要开新功能分支、隔离工作区、不要影响当前改动、用 worktree、执行较大计划前准备环境时使用；优先建立隔离 workspace。
 ---
 
 # Using Git Worktrees

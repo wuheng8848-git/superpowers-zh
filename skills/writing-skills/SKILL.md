@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: 在创建新技能、编辑现有技能，或部署前验证技能是否有效时使用
+description: 中文触发：当用户要创建技能、修改技能、汉化 skill、调整触发词、写 SKILL.md、验证技能是否生效时使用；用于 writing skills 和技能测试。
 ---
 
 # Writing Skills

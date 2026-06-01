@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: 当已有规格说明或需求，并准备处理多步骤任务时使用；必须在修改代码之前触发
+description: 中文触发：当用户有需求、规格、设计，要求写计划、拆任务、制定实现方案、先规划、多步骤开发时使用；用于 writing plans，在改代码前产出实现计划。
 ---
 
 # Writing Plans

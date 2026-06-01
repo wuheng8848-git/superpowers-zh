@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: 在实现任何功能或修复任何缺陷时使用；必须在编写实现代码之前触发
+description: 中文触发：当用户要实现功能、修 bug、改行为、重构、补测试，或提到先写测试、TDD、测试驱动时使用；在写实现代码前先写会失败的测试。
 ---
 
 # Test-Driven Development (TDD)

@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: 收到代码审查反馈后、实现建议之前使用，尤其是在反馈不清楚或技术上可疑时；要求技术严谨和验证，而不是表演式同意或盲目实现
+description: 中文触发：当用户贴出 code review、审查意见、别人建议、review 反馈，并要求处理、判断、修改或回应时使用；先验证反馈是否正确，再逐项实现或解释。
 ---
 
 # Code Review Reception

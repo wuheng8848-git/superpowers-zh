@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: 在声称工作完成、已修复或已通过之前使用，尤其是在提交或创建 PR 前；要求先运行验证命令并确认输出，始终先有证据再下结论
+description: 中文触发：当准备说完成了、修好了、测试通过、可以提交、可以推送、可以开 PR、交付前确认时必须使用；用于 verification before completion，先验证再下结论。
 ---
 
 # Verification Before Completion

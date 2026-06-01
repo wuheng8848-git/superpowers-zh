@@ -1,6 +1,6 @@
 ---
 name: finishing-a-development-branch
-description: 当实现已完成、所有测试通过，并需要决定如何集成工作时使用；通过结构化选项引导合并、PR 或清理等收尾流程
+description: 中文触发：当用户说功能做完了、测试都过了、准备收尾、准备合并、开 PR、清理分支、结束这个开发分支时使用；用于 finish branch、merge、PR 和 cleanup。
 ---
 
 # Finishing a Development Branch

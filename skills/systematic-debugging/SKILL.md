@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: 遇到任何缺陷、测试失败或异常行为时使用；必须在提出修复方案之前触发
+description: 中文触发：当用户说有 bug、报错了、测试失败、运行不对、行为异常、帮我排查、定位原因、为什么失败时必须使用；用于 systematic debugging，先找根因再修。
 ---
 
 # Systematic Debugging

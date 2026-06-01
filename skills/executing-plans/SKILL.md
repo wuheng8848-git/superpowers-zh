@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: 当已有书面实现计划，并需要在带审查检查点的独立会话中执行时使用
+description: 中文触发：当用户已有计划文档、实现计划、任务清单，要求按计划执行、照计划做、开始实现计划时使用；用于 executing implementation plans。
 ---
 
 # Executing Plans

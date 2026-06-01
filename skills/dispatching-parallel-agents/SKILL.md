@@ -1,6 +1,6 @@
 ---
 name: dispatching-parallel-agents
-description: 面对两个或更多彼此独立、没有共享状态或顺序依赖的任务时使用
+description: 中文触发：当用户要同时处理多个独立问题、多个测试失败、多个模块任务，或说并行查一下、分头处理、多个方向一起看时使用；用于 dispatching parallel agents。
 ---
 
 # Dispatching Parallel Agents

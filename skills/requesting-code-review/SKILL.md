@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: 在完成任务、实现重要功能或合并之前使用，用于验证工作是否满足需求
+description: 中文触发：当用户说帮我 review、检查一下改动、看看有没有问题、合并前审查、完工前确认质量时使用；用于 requesting code review。
 ---
 
 # Requesting Code Review
