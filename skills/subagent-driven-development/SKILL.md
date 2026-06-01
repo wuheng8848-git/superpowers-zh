@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session
+description: 在当前会话中执行由独立任务组成的实现计划时使用
 ---
 
 # Subagent-Driven Development
